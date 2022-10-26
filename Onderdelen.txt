@@ -1,0 +1,67 @@
+Onderdelenlijst
+Hoofdprint
+R1...R4 = 100 Ohm
+R5 = 330 Ohm
+R6 = 2k2
+R7 = 3k3
+R8...R16 = 4k7
+R17 = 10 kOhm
+R18...R20 = 27 kOhm
+R21...R24 = 100 kOhm
+R25 = 220 kOhm
+P1 = instelpotmeter 4k7 (CB10LV472M)
+P2 = instelpotmeter 47 kOhm (CB10LV473M)
+Condensatoren
+C1 = 330 pF, NP0
+C2,C3 = 100 nF
+C4 = 4,7 µF/100 V, radiaal, low ESR
+C5 = 100 µF radiaal
+C6...C8 = 220 µF, radiaal, low ESR
+D1,D2 = 1N400x
+D3 = MUR160G
+D4 = 1N5819
+D5 = 1N5347BG
+T1 = BC547B
+T2 = IPP200N15N3 G
+T3...T9 = 2N7000
+IC1 = PTH08080WAH
+IC2 = ICM7555
+IC3 = HV518P-G
+IC4 = stepdown- regelaar 5 V (Würth 173010578)
+IC5 = DS18B20 (optioneel, niet op de print)
+MOD1 = ESP32-devkitC + 2 x 20-polige busstrip
+L1 = 47 µH, 1,2 A, 0,067 Ohm, radiaal, ELC08D470E
+F1 = polyfuse 0,5 A, 60R050XPR
+K1...K3 = 10-polige busstrip, raster 2,54 mm steek (2x5)
+K4,K5 = 2-polige printkroonsteen, steek 5 mm
+K6 = haakse 3-polige draadconnector (Würth 61900319521) + female connector (optioneel)
+K7 = haakse 4-polige draadconnector (Würth 61900419521)
+K8 = 4-polige busstrip, raster 2,54
+1 x drukknop SPST/NO
+1 x coaxiale DC-voedingsconnector 5,5/2,1 mm (PC-010 TME)
+rood en zwart montagedraad
+Displayprint
+R1,R2 = 3,3 Ohm *
+R3A,R4A,R3B,R4B = 100 kOhm *
+TU1...TU6 = IV-22 (Rusland)
+TU7,TU8 = DM160 of equivalent / IV-15 (Rusland) *
+K1...K3 = haakse pinheader 2,54 mm
+72 x tube socket pin 1 mm
+krimpkous diameter 1,6 mm 1:2 ratio
+krimpkous diameter 6 mm 1:2 ratio
+2 x (halve) zekeringhouder 5x20 mm (Farnell 1866099)
+Mechanische onderdelen
+2 x aluminium afstandshouder rond 4,5 x 14 mm (Ettinger 05.72.148)
+2 x afstandshouder 15 mm M3 F/F
+4 x bout M3x6 verzinkt staal pozidriv DIN 7985A
+8 x nylon sluitring M3
+* zie tekst
+Print voor RGB-achtergrondverlichting
+Weerstanden
+R1...R18 = 330 Ohm
+Halfgeleiders
+D1...D6 = RGB-LED 5 mm, common anode (eBay)
+Diversen
+K1 = 4-polige pinheader, raster 2,54 mm
+wit, rood, groen en blauw montagedraad + extra pinheader
+krimpkous 3,2 mm 1:2 ratio
